@@ -1,8 +1,4 @@
 <?php
-/**
- * @file
- * Contains \Drupal\string_field_formatter\Plugin\Field\FieldFormatter\PlainStringFormatter.
- */
 
 namespace Drupal\string_field_formatter\Plugin\Field\FieldFormatter;
 
@@ -107,4 +103,5 @@ class PlainStringFormatter extends FormatterBase {
 
     return $elements;
   }
+
 }
